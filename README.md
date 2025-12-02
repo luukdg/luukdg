@@ -5,7 +5,7 @@ I'm a passionate developer who enjoys building things. Coding has always been an
 [![GuessTheGrade](https://img.shields.io/badge/GuessTheGrade-View%20Project-4caf50)](https://github.com/luukdg/guess-the-grade-react)
 
 ### 🎥 From Filmmaking to Front-End
-Before moving into front-end development, I worked as a filmmaker and motion designer at a marketing agency. That creative background sharpened my eye for storytelling, design, and polished user experiences, something I now bring into each project I build.
+Currently, I work as a filmmaker and motion designer at a marketing agency. My ambition is to professionally transition to front-end development.
 
 ### 🛠️ Tech Stack
 
